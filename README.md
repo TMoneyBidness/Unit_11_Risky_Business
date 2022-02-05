@@ -4,7 +4,7 @@ This was the data Classification unit using the Imbalanced Learn library. This h
 
 # THE ASSIGNMENT
  
-![Credit Risk](Images/credit-risk.jpg)
+![Images](images/credit-risk.jpg)
 
 ## Background
 
